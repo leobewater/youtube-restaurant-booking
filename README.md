@@ -4,6 +4,7 @@ Video: https://www.youtube.com/watch?v=ecjaXnL2CUs&ab_channel=Joshtriedcoding
 > npx create-t3-app@latest    
 > yarn add react-calendar
 > yarn add -D @types/react-calendar
+> yarn add date-fns
 > yarn run dev
 ```
 
