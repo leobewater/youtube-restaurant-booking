@@ -1,3 +1,12 @@
+Video: https://www.youtube.com/watch?v=ecjaXnL2CUs&ab_channel=Joshtriedcoding
+
+```
+> npx create-t3-app@latest    
+> yarn add react-calendar
+> yarn add -D @types/react-calendar
+> yarn run dev
+```
+
 # Create T3 App
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
